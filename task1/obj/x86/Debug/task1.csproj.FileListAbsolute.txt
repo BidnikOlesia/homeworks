@@ -1,0 +1,9 @@
+/Users/OlesiaBidnik/Homework/Homework1/task1/bin/Debug/task1.exe
+/Users/OlesiaBidnik/Homework/Homework1/task1/bin/Debug/task1.pdb
+/Users/OlesiaBidnik/Homework/Homework1/task1/bin/Debug/task6.exe
+/Users/OlesiaBidnik/Homework/Homework1/task1/bin/Debug/task6.pdb
+/Users/OlesiaBidnik/Homework/Homework1/task1/obj/x86/Debug/task1.csprojAssemblyReference.cache
+/Users/OlesiaBidnik/Homework/Homework1/task1/obj/x86/Debug/task1.csproj.CoreCompileInputs.cache
+/Users/OlesiaBidnik/Homework/Homework1/task1/obj/x86/Debug/task1.csproj.CopyComplete
+/Users/OlesiaBidnik/Homework/Homework1/task1/obj/x86/Debug/task1.exe
+/Users/OlesiaBidnik/Homework/Homework1/task1/obj/x86/Debug/task1.pdb
