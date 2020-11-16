@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{A1B954DC-68F5-4053-9391-8EE60E6F06F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4", "task4\task4.csproj", "{98882514-81B5-4925-8667-96400DAC1014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task5", "task5\task5.csproj", "{AE9DF725-18DE-41E1-A640-D0227E3A246E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task6", "task6\task6.csproj", "{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +23,25 @@ Global
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Debug|x86.Build.0 = Debug|x86
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Release|x86.ActiveCfg = Release|x86
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Release|x86.Build.0 = Release|x86
+		{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}.Debug|x86.ActiveCfg = Debug|x86
+		{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}.Debug|x86.Build.0 = Debug|x86
+		{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}.Release|x86.ActiveCfg = Release|x86
+		{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}.Release|x86.Build.0 = Release|x86
+		{A1B954DC-68F5-4053-9391-8EE60E6F06F8}.Debug|x86.ActiveCfg = Debug|x86
+		{A1B954DC-68F5-4053-9391-8EE60E6F06F8}.Debug|x86.Build.0 = Debug|x86
+		{A1B954DC-68F5-4053-9391-8EE60E6F06F8}.Release|x86.ActiveCfg = Release|x86
+		{A1B954DC-68F5-4053-9391-8EE60E6F06F8}.Release|x86.Build.0 = Release|x86
+		{98882514-81B5-4925-8667-96400DAC1014}.Debug|x86.ActiveCfg = Debug|x86
+		{98882514-81B5-4925-8667-96400DAC1014}.Debug|x86.Build.0 = Debug|x86
+		{98882514-81B5-4925-8667-96400DAC1014}.Release|x86.ActiveCfg = Release|x86
+		{98882514-81B5-4925-8667-96400DAC1014}.Release|x86.Build.0 = Release|x86
+		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Debug|x86.ActiveCfg = Debug|x86
+		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Debug|x86.Build.0 = Debug|x86
+		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Release|x86.ActiveCfg = Release|x86
+		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Release|x86.Build.0 = Release|x86
+		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Debug|x86.ActiveCfg = Debug|x86
+		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Debug|x86.Build.0 = Debug|x86
+		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Release|x86.ActiveCfg = Release|x86
+		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
