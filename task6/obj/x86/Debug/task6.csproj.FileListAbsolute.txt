@@ -1,0 +1,5 @@
+/Users/OlesiaBidnik/Homework/Homework1/task6/bin/Debug/task6.exe
+/Users/OlesiaBidnik/Homework/Homework1/task6/bin/Debug/task6.pdb
+/Users/OlesiaBidnik/Homework/Homework1/task6/obj/x86/Debug/task6.csproj.CoreCompileInputs.cache
+/Users/OlesiaBidnik/Homework/Homework1/task6/obj/x86/Debug/task6.exe
+/Users/OlesiaBidnik/Homework/Homework1/task6/obj/x86/Debug/task6.pdb
