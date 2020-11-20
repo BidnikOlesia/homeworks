@@ -1,9 +1,8 @@
 ﻿using System;
-using task6;
 
 #region задание 2
 /* 
- * Ввести вес и рост человека. Рассчитать и вывести индекс массы тела (ИМТ) по формуле I=m/(h*h); где m — масса тела в килограммах, h — рост в метрах. 
+ * Написать метод подсчета количества цифр числа 
  */
 #endregion
 
@@ -12,13 +11,22 @@ namespace task2
     class MainClass
     {
 
+        public static int GetDigits(int n)
+        {
+            int digits = 0;
+            while (n > 0)
+            {
+                digits++;
+                n = n / 10;
+            }
+            return digits;
+        }
+
         public static void Main(string[] args)
         {
-            double m = double.Parse(methods.GetInfo("Пожалуйста, введите вес(кг)"));
-            double h = double.Parse(methods.GetInfo("Пожалуйста, введите рост(м)"));
-
-            double i = m / (h * h);
-            Console.WriteLine($"ИМТ = {i}");
+            Console.WriteLine("Введите число");
+            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Количество цифр в числе: {GetDigits(number)}");
         }
     }
 }

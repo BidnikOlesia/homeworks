@@ -1,10 +1,9 @@
 ﻿using System;
-using task6;
+using System.Collections.Generic;
 
 #region задание 3
 /* 
- * а) Написать программу, которая подсчитывает расстояние между точками с координатами x1, y1 и x2,y2 по формуле r=Math.Sqrt(Math.Pow(x2-x1,2)+Math.Pow(y2-y1,2). Вывести результат, используя спецификатор формата .2f (с двумя знаками после запятой);
- * б) *Выполнить предыдущее задание, оформив вычисления расстояния между точками в виде метода. 
+ * С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел. 
  */
 #endregion
 
@@ -12,21 +11,34 @@ namespace task3
 {
     class MainClass
     {
-        public static double getLength(double x1, double y1, double x2, double y2)
-        {
-            double r = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
-            return r;
-        }
-
         public static void Main(string[] args)
         {
-            float x1 = float.Parse(methods.GetInfo("Введите значение x1"));
-            float y1 = float.Parse(methods.GetInfo("Введите значение y1"));
-            float x2 = float.Parse(methods.GetInfo("Введите значение x2"));
-            float y2 = float.Parse(methods.GetInfo("Введите значение y2"));
-            double result = getLength(x1, y1, x2, y2);
+            Console.WriteLine("ВВедите числа");
+            List<int> numbers = new List<int>();
+            //do
+            //{
+            //    int n = int.Parse(Console.ReadLine());
+            //    numbers.Add(n);
+            //    if (n == 0) { break; }
+            //}
+            //while (true);
 
-            Console.WriteLine("{0:f2}", result);
+            while (true)
+            {
+                int n = int.Parse(Console.ReadLine());
+                numbers.Add(n);
+                if (n == 0) { break; }
+            }
+
+            int sum = 0;
+            foreach(var r in numbers)
+            {
+                if(r>0 && r%2 != 0)
+                {
+                    sum += r;
+                }
+            }
+            Console.WriteLine($"Сумма всех нечетных положительных чисел = {sum}");
         }
     }
 }

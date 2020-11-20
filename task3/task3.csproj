@@ -35,11 +35,5 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\task6\task6.csproj">
-      <Project>{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}</Project>
-      <Name>task6</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

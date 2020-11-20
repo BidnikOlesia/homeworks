@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4", "task4\task4.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task5", "task5\task5.csproj", "{AE9DF725-18DE-41E1-A640-D0227E3A246E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task6", "task6\task6.csproj", "{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task6", "task6\task6.csproj", "{E7178CDF-183C-43CA-863A-EEE0B3231B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task7", "task7\task7.csproj", "{5BA40451-55CF-4B1A-9958-D28A7CC0A142}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +41,13 @@ Global
 		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Debug|x86.Build.0 = Debug|x86
 		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Release|x86.ActiveCfg = Release|x86
 		{AE9DF725-18DE-41E1-A640-D0227E3A246E}.Release|x86.Build.0 = Release|x86
-		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Debug|x86.ActiveCfg = Debug|x86
-		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Debug|x86.Build.0 = Debug|x86
-		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Release|x86.ActiveCfg = Release|x86
-		{7ED1B5F7-3270-494A-B57B-5A6AC9314C15}.Release|x86.Build.0 = Release|x86
+		{E7178CDF-183C-43CA-863A-EEE0B3231B79}.Debug|x86.ActiveCfg = Debug|x86
+		{E7178CDF-183C-43CA-863A-EEE0B3231B79}.Debug|x86.Build.0 = Debug|x86
+		{E7178CDF-183C-43CA-863A-EEE0B3231B79}.Release|x86.ActiveCfg = Release|x86
+		{E7178CDF-183C-43CA-863A-EEE0B3231B79}.Release|x86.Build.0 = Release|x86
+		{5BA40451-55CF-4B1A-9958-D28A7CC0A142}.Debug|x86.ActiveCfg = Debug|x86
+		{5BA40451-55CF-4B1A-9958-D28A7CC0A142}.Debug|x86.Build.0 = Debug|x86
+		{5BA40451-55CF-4B1A-9958-D28A7CC0A142}.Release|x86.ActiveCfg = Release|x86
+		{5BA40451-55CF-4B1A-9958-D28A7CC0A142}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
