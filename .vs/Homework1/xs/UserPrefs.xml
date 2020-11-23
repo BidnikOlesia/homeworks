@@ -1,22 +1,21 @@
-﻿<Properties StartupConfiguration="{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}|Default">
+﻿<Properties StartupConfiguration="{DD6BCE25-4F43-4BAD-924C-ECC12D5BA064}|Default">
   <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="task7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="task2/Program.cs">
     <Files>
-      <File FileName="task1/Program.cs" Line="1" Column="14" />
+      <File FileName="task1/Program.cs" Line="93" Column="14" />
+      <File FileName="task1/ComplexStruct.cs" Line="35" Column="10" />
+      <File FileName="task1/ComplexClass.cs" Line="58" Column="24" />
+      <File FileName="task3/Fractions.cs" Line="2" Column="1" />
+      <File FileName="task3/Program.cs" Line="1" Column="14" />
       <File FileName="task2/Program.cs" Line="30" Column="10" />
-      <File FileName="task3/Program.cs" Line="2" Column="34" />
-      <File FileName="task4/Program.cs" Line="32" Column="52" />
-      <File FileName="task5/Program.cs" Line="40" Column="10" />
-      <File FileName="task6/Program.cs" Line="22" Column="31" />
-      <File FileName="task7/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.task3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.task6 FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.task7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.task2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
