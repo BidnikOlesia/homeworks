@@ -1,6 +1,0 @@
-/Users/OlesiaBidnik/Homework/Homework1/task4/bin/Debug/task4.exe
-/Users/OlesiaBidnik/Homework/Homework1/task4/bin/Debug/task4.pdb
-/Users/OlesiaBidnik/Homework/Homework1/task4/obj/x86/Debug/task4.csprojAssemblyReference.cache
-/Users/OlesiaBidnik/Homework/Homework1/task4/obj/x86/Debug/task4.csproj.CoreCompileInputs.cache
-/Users/OlesiaBidnik/Homework/Homework1/task4/obj/x86/Debug/task4.exe
-/Users/OlesiaBidnik/Homework/Homework1/task4/obj/x86/Debug/task4.pdb
