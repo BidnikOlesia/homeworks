@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{C826287D-1C3F-4EE3-9EFB-2E9554189A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{712313E5-8E29-4041-AAEF-39CF5E1D9965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLib", "ArrayLib\ArrayLib.csproj", "{F3A6B73C-CAFE-4FF8-9560-F854B418895F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4", "task4\task4.csproj", "{262391FA-C467-4F2D-A1A6-EFF008109D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task5", "task5\task5.csproj", "{CC1A1CF2-EFEE-4373-B6B9-40C38FA22043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +23,25 @@ Global
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Debug|x86.Build.0 = Debug|x86
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Release|x86.ActiveCfg = Release|x86
 		{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}.Release|x86.Build.0 = Release|x86
+		{C826287D-1C3F-4EE3-9EFB-2E9554189A3B}.Debug|x86.ActiveCfg = Debug|x86
+		{C826287D-1C3F-4EE3-9EFB-2E9554189A3B}.Debug|x86.Build.0 = Debug|x86
+		{C826287D-1C3F-4EE3-9EFB-2E9554189A3B}.Release|x86.ActiveCfg = Release|x86
+		{C826287D-1C3F-4EE3-9EFB-2E9554189A3B}.Release|x86.Build.0 = Release|x86
+		{712313E5-8E29-4041-AAEF-39CF5E1D9965}.Debug|x86.ActiveCfg = Debug|x86
+		{712313E5-8E29-4041-AAEF-39CF5E1D9965}.Debug|x86.Build.0 = Debug|x86
+		{712313E5-8E29-4041-AAEF-39CF5E1D9965}.Release|x86.ActiveCfg = Release|x86
+		{712313E5-8E29-4041-AAEF-39CF5E1D9965}.Release|x86.Build.0 = Release|x86
+		{F3A6B73C-CAFE-4FF8-9560-F854B418895F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3A6B73C-CAFE-4FF8-9560-F854B418895F}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3A6B73C-CAFE-4FF8-9560-F854B418895F}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3A6B73C-CAFE-4FF8-9560-F854B418895F}.Release|x86.Build.0 = Release|Any CPU
+		{262391FA-C467-4F2D-A1A6-EFF008109D26}.Debug|x86.ActiveCfg = Debug|x86
+		{262391FA-C467-4F2D-A1A6-EFF008109D26}.Debug|x86.Build.0 = Debug|x86
+		{262391FA-C467-4F2D-A1A6-EFF008109D26}.Release|x86.ActiveCfg = Release|x86
+		{262391FA-C467-4F2D-A1A6-EFF008109D26}.Release|x86.Build.0 = Release|x86
+		{CC1A1CF2-EFEE-4373-B6B9-40C38FA22043}.Debug|x86.ActiveCfg = Debug|x86
+		{CC1A1CF2-EFEE-4373-B6B9-40C38FA22043}.Debug|x86.Build.0 = Debug|x86
+		{CC1A1CF2-EFEE-4373-B6B9-40C38FA22043}.Release|x86.ActiveCfg = Release|x86
+		{CC1A1CF2-EFEE-4373-B6B9-40C38FA22043}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
