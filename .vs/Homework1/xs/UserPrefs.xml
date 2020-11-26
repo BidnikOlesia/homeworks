@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}|Default">
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task4 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayLib/TwoDimArray.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="56" Column="129" />
+      <File FileName="task2/Program.cs" Line="21" Column="38" />
+      <File FileName="task2/ArrayClass.cs" Line="40" Column="9" />
+      <File FileName="task3/Program.cs" Line="49" Column="14" />
+      <File FileName="ArrayLib/OneDimArray.cs" Line="145" Column="1" />
+      <File FileName="task4/Program.cs" Line="64" Column="39" />
+      <File FileName="task4/Account.cs" Line="14" Column="59" />
+      <File FileName="task5/Program.cs" Line="13" Column="11" />
+      <File FileName="ArrayLib/TwoDimArray.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.task3 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ArrayLib FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.task2 FirstBuild="True" />
+</Properties>
