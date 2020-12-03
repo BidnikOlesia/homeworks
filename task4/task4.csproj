@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{0D4F2582-79ED-4359-BF78-22DBE8A07F0C}</ProjectGuid>
+    <ProjectGuid>{5BC2E0AC-DC6B-4640-810C-0D1EFD34CD47}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>task1</RootNamespace>
-    <AssemblyName>task1</AssemblyName>
+    <RootNamespace>task4</RootNamespace>
+    <AssemblyName>task4</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,7 +34,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Functions.cs" />
+    <Compile Include="FileWriter.cs" />
+    <Compile Include="FileReader.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
