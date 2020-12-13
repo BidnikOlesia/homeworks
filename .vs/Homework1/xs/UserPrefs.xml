@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6CFE0F75-F023-4042-A956-7DBE67E19D23}|Default">
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task4 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task4/Program.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="4" Column="1" />
+      <File FileName="task5/Program.cs" Line="19" Column="6" />
+      <File FileName="task5/Student.cs" Line="77" Column="46" />
+      <File FileName="task4/Program.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

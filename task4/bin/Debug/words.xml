@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfWords xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Words>
+    <word>cat</word>
+    <translate>кошка</translate>
+  </Words>
+  <Words>
+    <word>dog</word>
+    <translate>собака</translate>
+  </Words>
+  <Words>
+    <word>wizard</word>
+    <translate>волшебник</translate>
+  </Words>
+  <Words>
+    <word>frog</word>
+    <translate>лягушка</translate>
+  </Words>
+  <Words>
+    <word>do</word>
+    <translate>делать</translate>
+  </Words>
+  <Words>
+    <word>sleep</word>
+    <translate>спать</translate>
+  </Words>
+</ArrayOfWords>
